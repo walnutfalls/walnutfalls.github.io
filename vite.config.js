@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   plugins: [],
-  base: "/walnutfalls-site/",
+  base: "/",
   build: {
         rollupOptions: {
             input: {
